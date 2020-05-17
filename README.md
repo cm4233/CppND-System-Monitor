@@ -3,7 +3,7 @@ This project provides a text-based graphical output in the terminal to monitor s
 
 <img src="run.png" width="873" height="632" />
 
-## Install dependencies
+## Install Dependencies
 ```
 sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
