@@ -9,6 +9,7 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
 ## Compilation and Execution
 ```
+cd src
 g++ *.cpp -lncurses
 ./a.out
 ```
